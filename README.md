@@ -120,7 +120,7 @@ python3 businka_feed_bot_full.py
 ---
 
 ## 📜 License
-MIT License © 2025 NK  
+MIT License © 2025 NKVV69  
 See the [LICENSE](LICENSE) file for details.
 
 ---
